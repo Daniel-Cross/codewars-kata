@@ -1,0 +1,26 @@
+{
+  "name": "codewars-kata",
+  "version": "1.0.0",
+  "description": "# Codewars Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Cross/codewars-kata.git"
+  },
+  "keywords": [
+    "codewars",
+    "kata"
+  ],
+  "author": "Daniel Cross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Cross/codewars-kata/issues"
+  },
+  "homepage": "https://github.com/Daniel-Cross/codewars-kata#readme",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
