@@ -4,6 +4,8 @@ const oppositeNumber = require('./8.oppositeNumber');
 const doubleNumber = require('./8.doubleNumber');
 const arrayElement = require('./8.arrayElement');
 const bus = require('./7.bus')
+const codeMeet = require('./7.codeMeet');
+const xo = require('./7.xo');
 ;
 
 
@@ -18,6 +20,8 @@ oppositeNumber,
 doubleNumber,
 arrayElement,
 bus,
+codeMeet,
+xo,
 
 
 };
