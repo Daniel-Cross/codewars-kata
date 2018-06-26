@@ -6,6 +6,10 @@ const arrayElement = require('./8.arrayElement');
 const bus = require('./7.bus')
 const codeMeet = require('./7.codeMeet');
 const xo = require('./7.xo');
+const splitString = require('./7.splitString');
+const sheep = require('./8.sheep');
+const triangle = require('./8.triangle');
+
 ;
 
 
@@ -22,6 +26,9 @@ arrayElement,
 bus,
 codeMeet,
 xo,
+splitString,
+sheep,
+triangle,
 
 
 };
