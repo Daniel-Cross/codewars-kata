@@ -9,6 +9,8 @@ const xo = require('./7.xo');
 const splitString = require('./7.splitString');
 const sheep = require('./8.sheep');
 const triangle = require('./8.triangle');
+const needle = require('./8.needle');
+const century = require('./8.century');
 
 ;
 
@@ -29,6 +31,8 @@ xo,
 splitString,
 sheep,
 triangle,
+needle,
+century,
 
 
 };
