@@ -11,6 +11,7 @@ const sheep = require('./8.sheep');
 const triangle = require('./8.triangle');
 const needle = require('./8.needle');
 const century = require('./8.century');
+const predictAge = require('./7.predictAge');
 
 ;
 
@@ -33,6 +34,7 @@ sheep,
 triangle,
 needle,
 century,
+predictAge,
 
 
 };
