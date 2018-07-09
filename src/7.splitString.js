@@ -1,8 +1,8 @@
-const splitString = (s, partLength) => {
+const splitString = (s) => {
 
-   let subStr = new RegExp('.{1,' + partLength + '}', 'g');
-    return s.match(subStr).toString().replace(/,/g, ' ');
-
+   const subStr = new RegExp('.{1,' + 3 + '}', 'g');
+    const str = s.match(subStr).toString().replace(/,/g, ' ');
+    return str;
    };
 
 

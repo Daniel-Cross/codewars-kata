@@ -12,6 +12,9 @@ const triangle = require('./8.triangle');
 const needle = require('./8.needle');
 const century = require('./8.century');
 const predictAge = require('./7.predictAge');
+const petals = require('./8.petals');
+const doubleChar = require('./8.doubleChar');
+const hydrated = require('./8.hydrated');
 
 ;
 
@@ -35,6 +38,9 @@ triangle,
 needle,
 century,
 predictAge,
+petals,
+doubleChar,
+hydrated,
 
 
 };
