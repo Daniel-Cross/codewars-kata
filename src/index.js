@@ -15,6 +15,7 @@ const predictAge = require('./7.predictAge');
 const petals = require('./8.petals');
 const doubleChar = require('./8.doubleChar');
 const hydrated = require('./8.hydrated');
+const banjo = require('./8.banjo');
 
 ;
 
@@ -41,6 +42,7 @@ predictAge,
 petals,
 doubleChar,
 hydrated,
+banjo,
 
 
 };
